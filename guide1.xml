@@ -1,0 +1,4711 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="REDE BRASIL SD ²">
+    <display-name lang="pt">REDE BRASIL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD NEWS SD ²">
+    <display-name lang="pt">RECORD NEWS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="REDE VIDA SD ²">
+    <display-name lang="pt">REDE VIDA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="APARECIDA SD ²">
+    <display-name lang="pt">APARECIDA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="REDE TV SD ²">
+    <display-name lang="pt">REDE TV SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="REDE RECORD SD ²">
+    <display-name lang="pt">REDE RECORD SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND SD ²">
+    <display-name lang="pt">BAND SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT SD ²">
+    <display-name lang="pt">SBT SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBO RJ SD ²">
+    <display-name lang="pt">GLOBO RJ SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV CULTURA SD ²">
+    <display-name lang="pt">TV CULTURA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV 3 SD ²">
+    <display-name lang="pt">SPORTV 3 SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 SD ²">
+    <display-name lang="pt">SPORTV 2 SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV SD ²">
+    <display-name lang="pt">SPORTV SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBO NEWS SD ²">
+    <display-name lang="pt">GLOBO NEWS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT SD ²">
+    <display-name lang="pt">GNT SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MULTISHOW SD ²">
+    <display-name lang="pt">MULTISHOW SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="VIVA SD ²">
+    <display-name lang="pt">VIVA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX LIFE SD ²">
+    <display-name lang="pt">FOX LIFE SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN BRASIL SD ²">
+    <display-name lang="pt">ESPN BRASIL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN SD ²">
+    <display-name lang="pt">ESPN SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN + SD ²">
+    <display-name lang="pt">ESPN + SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS SD ²">
+    <display-name lang="pt">FOX SPORTS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 SD ²">
+    <display-name lang="pt">FOX SPORTS 2 SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS SD ²">
+    <display-name lang="pt">BAND SPORTS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND NEWS SD ²">
+    <display-name lang="pt">BAND NEWS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC SD ²">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL SD ²">
+    <display-name lang="pt">DISCOVERY CHANNEL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET SD ²">
+    <display-name lang="pt">ANIMAL PLANET SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="THE HISTORY CHANNEL SD ²">
+    <display-name lang="pt">THE HISTORY CHANNEL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO SD ²">
+    <display-name lang="pt">DISCOVERY TURBO SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FUTURA SD ²">
+    <display-name lang="pt">FUTURA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="H2 SD ²">
+    <display-name lang="pt">H2 SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS SD ²">
+    <display-name lang="pt">DISCOVERY KIDS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOOB SD ²">
+    <display-name lang="pt">GLOOB SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY SD ²">
+    <display-name lang="pt">DISNEY SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NICKELODEON SD ²">
+    <display-name lang="pt">NICKELODEON SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK SD ²">
+    <display-name lang="pt">CARTOON NETWORK SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY XD SD ²">
+    <display-name lang="pt">DISNEY XD SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY JÙNIOR SD ²">
+    <display-name lang="pt">DISNEY JÙNIOR SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NICK JR. SD ²">
+    <display-name lang="pt">NICK JR.SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BOOMERANG SD ²">
+    <display-name lang="pt">BOOMERANG SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV RÁ TIM BUM SD ²">
+    <display-name lang="pt">TV RÁ TIM BUM SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TOONCAST SD ²">
+    <display-name lang="pt">TOONCAST SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS SD ²">
+    <display-name lang="pt">BIS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MTV  SD ²">
+    <display-name lang="pt">MTV  SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MUSIC BOX SD ²">
+    <display-name lang="pt">MUSIC BOX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL SD ²">
+    <display-name lang="pt">UNIVERSAL CHANNEL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX SD ²">
+    <display-name lang="pt">FOX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WARNER CHANNEL SD ²">
+    <display-name lang="pt">WARNER CHANNEL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SONY SD ²">
+    <display-name lang="pt">SONY SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FX SD ²">
+    <display-name lang="pt">FX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN SD ²">
+    <display-name lang="pt">AXN SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS SD ²">
+    <display-name lang="pt">TBS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="COMEDY CENTRAL SD ²">
+    <display-name lang="pt">COMEDY CENTRAL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ID - INVESTIGAÇÃO DISCOVERY SD ²">
+    <display-name lang="pt">ID - INVESTIGAÇÃO DISCOVERY SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SYFY SD ²">
+    <display-name lang="pt">SYFY SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CANAL BRASIL SD ²">
+    <display-name lang="pt">CANAL BRASIL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT SD ²">
+    <display-name lang="pt">TNT SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MEGAPIX SD ²">
+    <display-name lang="pt">MEGAPIX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPACE SD ²">
+    <display-name lang="pt">SPACE SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CINEMAX SD ²">
+    <display-name lang="pt">CINEMAX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PRIME BOX BRAZIL SD ²">
+    <display-name lang="pt">PRIME BOX BRAZIL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL SD ²">
+    <display-name lang="pt">STUDIO UNIVERSAL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PARAMOUNT SD ²">
+    <display-name lang="pt">PARAMOUNT SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TCM SD ²">
+    <display-name lang="pt">TCM SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM SD ²">
+    <display-name lang="pt">TELECINE PREMIUM SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION SD ²">
+    <display-name lang="pt">TELECINE ACTION SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH SD ²">
+    <display-name lang="pt">TELECINE TOUCH SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN SD ²">
+    <display-name lang="pt">TELECINE FUN SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA SD ²">
+    <display-name lang="pt">TELECINE PIPOCA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT SD ²">
+    <display-name lang="pt">TELECINE CULT SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SD ²">
+    <display-name lang="pt">HBO SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2 SD ²">
+    <display-name lang="pt">HBO 2 SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS SD ²">
+    <display-name lang="pt">HBO PLUS SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS *e SD ²">
+    <display-name lang="pt">HBO PLUS *e SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY SD ²">
+    <display-name lang="pt">HBO FAMILY SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE SD ²">
+    <display-name lang="pt">HBO SIGNATURE SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX SD ²">
+    <display-name lang="pt">MAX SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME SD ²">
+    <display-name lang="pt">MAX PRIME SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MAX PRIME *e SD ²">
+    <display-name lang="pt">MAX PRIME *e SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TERRA VIVA SD ²">
+    <display-name lang="pt">TERRA VIVA SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CANAL RURAL SD ²">
+    <display-name lang="pt">CANAL RURAL SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PREMIERE CLUBES SD ²">
+    <display-name lang="pt">PREMIERE CLUBES SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE SD ²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF HD ¹">
+    <display-name lang="pt">OFF HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD ¹">
+    <display-name lang="pt">SPORTV 2 HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTV HD ¹">
+    <display-name lang="pt">SPORTV HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT HD ¹">
+    <display-name lang="pt">GNT HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MULTISHOW HD ¹">
+    <display-name lang="pt">MULTISHOW HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOBOSAT HD ¹">
+    <display-name lang="pt">GLOBOSAT HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TLC HD ¹">
+    <display-name lang="pt">TLC HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN HD ¹">
+    <display-name lang="pt">ESPN HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS HD ¹">
+    <display-name lang="pt">BAND SPORTS HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD ¹">
+    <display-name lang="pt">DISCOVERY CHANNEL HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="THE HISTORY CHANNEL HD ¹">
+    <display-name lang="pt">THE HISTORY CHANNEL HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD ¹">
+    <display-name lang="pt">DISCOVERY TURBO HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="NAT GEO WILD HD ¹">
+    <display-name lang="pt">NAT GEO WILD HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD ¹">
+    <display-name lang="pt">DISCOVERY THEATER HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD ¹">
+    <display-name lang="pt">DISCOVERY KIDS HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GLOOB HD ¹">
+    <display-name lang="pt">GLOOB HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="DISNEY HD ¹">
+    <display-name lang="pt">DISNEY HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BIS HD ¹">
+    <display-name lang="pt">BIS HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL HD ¹">
+    <display-name lang="pt">UNIVERSAL CHANNEL HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX HD ¹">
+    <display-name lang="pt">FOX HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WARNER HD ¹">
+    <display-name lang="pt">WARNER HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SONY HD ¹">
+    <display-name lang="pt">SONY HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN HD ¹">
+    <display-name lang="pt">AXN HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT HD ¹">
+    <display-name lang="pt">TNT HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="MEGAPIX HD ¹">
+    <display-name lang="pt">MEGAPIX HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPACE HD ¹">
+    <display-name lang="pt">SPACE HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PARAMOUNT HD ¹">
+    <display-name lang="pt">PARAMOUNT HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD ¹">
+    <display-name lang="pt">TELECINE PREMIUM HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD ¹">
+    <display-name lang="pt">TELECINE ACTION HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD ¹">
+    <display-name lang="pt">TELECINE TOUCH HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN HD ¹">
+    <display-name lang="pt">TELECINE FUN HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD ¹">
+    <display-name lang="pt">TELECINE PIPOCA HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD ¹">
+    <display-name lang="pt">HBO 2 HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS HD ¹">
+    <display-name lang="pt">HBO PLUS HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD ¹">
+    <display-name lang="pt">HBO SIGNATURE HD ¹</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="PREMIERE 2 HD ¹">
+    <display-name lang="pt">PREMIERE 2 HD ¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 3">
+    <display-name lang="pt">PREMIERE 3 HD ¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4">
+    <display-name lang="pt">PREMIERE 4 HD ¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5">
+    <display-name lang="pt">PREMIERE 5 HD ¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="COMBATE HD ¹">
+    <display-name lang="pt">COMBATE HD ¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 2 SD ²">
+    <display-name lang="pt">PREMIERE 2 SD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 3 SD ²">
+    <display-name lang="pt">PREMIERE 3 SD¹</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4 SD ²">
+    <display-name lang="pt">PREMIERE 4 SD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5 SD ²">
+    <display-name lang="pt">PREMIERE 5 SD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 6 SD ²">
+    <display-name lang="pt">PREMIERE 6 SD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 7 SD ²">
+    <display-name lang="pt">PREMIERE 7 SD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 2 HD ¹">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111010000 -0400" stop="20191111020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111020000 -0400" stop="20191111030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111030000 -0400" stop="20191111040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111040000 -0400" stop="20191111050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111050000 -0400" stop="20191111060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111070000 -0400" stop="20191111080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111080000 -0400" stop="20191111090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111090000 -0400" stop="20191111100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111100000 -0400" stop="20191111110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111110000 -0400" stop="20191111120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111130000 -0400" stop="20191111140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111140000 -0400" stop="20191111150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111150000 -0400" stop="20191111160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111160000 -0400" stop="20191111170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111170000 -0400" stop="20191111180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191111190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111190000 -0400" stop="20191111200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111200000 -0400" stop="20191111210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111210000 -0400" stop="20191111220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111220000 -0400" stop="20191111230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111230000 -0400" stop="20191112000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112010000 -0400" stop="20191112020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112020000 -0400" stop="20191112030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112030000 -0400" stop="20191112040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112040000 -0400" stop="20191112050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112050000 -0400" stop="20191112060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112070000 -0400" stop="20191112080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112080000 -0400" stop="20191112090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112090000 -0400" stop="20191112100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112100000 -0400" stop="20191112110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112110000 -0400" stop="20191112120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112130000 -0400" stop="20191112140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112140000 -0400" stop="20191112150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112150000 -0400" stop="20191112160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112160000 -0400" stop="20191112170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112170000 -0400" stop="20191112180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191112190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112190000 -0400" stop="20191112200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112200000 -0400" stop="20191112210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112210000 -0400" stop="20191112220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112220000 -0400" stop="20191112230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112230000 -0400" stop="20191113000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113010000 -0400" stop="20191113020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113020000 -0400" stop="20191113030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113030000 -0400" stop="20191113040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113040000 -0400" stop="20191113050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113050000 -0400" stop="20191113060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113070000 -0400" stop="20191113080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113080000 -0400" stop="20191113090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113090000 -0400" stop="20191113100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113100000 -0400" stop="20191113110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113110000 -0400" stop="20191113120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113130000 -0400" stop="20191113140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113140000 -0400" stop="20191113150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113150000 -0400" stop="20191113160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113160000 -0400" stop="20191113170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113170000 -0400" stop="20191113180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191113190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113190000 -0400" stop="20191113200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113200000 -0400" stop="20191113210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113210000 -0400" stop="20191113220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113220000 -0400" stop="20191113230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113230000 -0400" stop="20191114000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114010000 -0400" stop="20191114020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114020000 -0400" stop="20191114030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114030000 -0400" stop="20191114040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114040000 -0400" stop="20191114050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114050000 -0400" stop="20191114060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114070000 -0400" stop="20191114080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114080000 -0400" stop="20191114090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114090000 -0400" stop="20191114100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114100000 -0400" stop="20191114110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114110000 -0400" stop="20191114120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114130000 -0400" stop="20191114140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114140000 -0400" stop="20191114150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114150000 -0400" stop="20191114160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114160000 -0400" stop="20191114170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114170000 -0400" stop="20191114180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191114190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114190000 -0400" stop="20191114200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114200000 -0400" stop="20191114210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114210000 -0400" stop="20191114220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114220000 -0400" stop="20191114230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114230000 -0400" stop="20191115000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115010000 -0400" stop="20191115020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115020000 -0400" stop="20191115030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115030000 -0400" stop="20191115040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115040000 -0400" stop="20191115050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115050000 -0400" stop="20191115060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115070000 -0400" stop="20191115080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115080000 -0400" stop="20191115090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115090000 -0400" stop="20191115100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115100000 -0400" stop="20191115110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115110000 -0400" stop="20191115120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115130000 -0400" stop="20191115140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115140000 -0400" stop="20191115150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115150000 -0400" stop="20191115160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115160000 -0400" stop="20191115170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115170000 -0400" stop="20191115180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191115190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115190000 -0400" stop="20191115200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115200000 -0400" stop="20191115210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115210000 -0400" stop="20191115220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115220000 -0400" stop="20191115230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115230000 -0400" stop="20191116000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116010000 -0400" stop="20191116020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116020000 -0400" stop="20191116030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116030000 -0400" stop="20191116040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116040000 -0400" stop="20191116050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116050000 -0400" stop="20191116060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116070000 -0400" stop="20191116080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116080000 -0400" stop="20191116090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116090000 -0400" stop="20191116100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116100000 -0400" stop="20191116110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116110000 -0400" stop="20191116120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116130000 -0400" stop="20191116140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116140000 -0400" stop="20191116150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116150000 -0400" stop="20191116160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116160000 -0400" stop="20191116170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116170000 -0400" stop="20191116180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191116190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116190000 -0400" stop="20191116200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116200000 -0400" stop="20191116210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116210000 -0400" stop="20191116220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116220000 -0400" stop="20191116230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116230000 -0400" stop="20191117000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117010000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117010000 -0400" stop="20191117020000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117020000 -0400" stop="20191117030000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117030000 -0400" stop="20191117040000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117040000 -0400" stop="20191117050000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117050000 -0400" stop="20191117060000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117070000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117070000 -0400" stop="20191117080000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117080000 -0400" stop="20191117090000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117090000 -0400" stop="20191117100000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117100000 -0400" stop="20191117110000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117110000 -0400" stop="20191117120000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117130000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117130000 -0400" stop="20191117140000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117140000 -0400" stop="20191117150000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117150000 -0400" stop="20191117160000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117160000 -0400" stop="20191117170000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117170000 -0400" stop="20191117180000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191117190000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117190000 -0400" stop="20191117200000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117200000 -0400" stop="20191117210000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117210000 -0400" stop="20191117220000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117220000 -0400" stop="20191117230000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117230000 -0400" stop="20191118000000 -0400" channel="PREMIERE 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111023000 -0400" stop="20191111030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111030000 -0400" stop="20191111050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111050000 -0400" stop="20191111060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111080000 -0400" stop="20191111100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111100000 -0400" stop="20191111120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111140000 -0400" stop="20191111143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111143000 -0400" stop="20191111163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111163000 -0400" stop="20191111170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111170000 -0400" stop="20191111190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111190000 -0400" stop="20191111200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111200000 -0400" stop="20191111220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111220000 -0400" stop="20191112000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112023000 -0400" stop="20191112030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112030000 -0400" stop="20191112050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112050000 -0400" stop="20191112060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112080000 -0400" stop="20191112100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112100000 -0400" stop="20191112120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112140000 -0400" stop="20191112143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112143000 -0400" stop="20191112163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112163000 -0400" stop="20191112170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112170000 -0400" stop="20191112190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112190000 -0400" stop="20191112200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112200000 -0400" stop="20191112220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112220000 -0400" stop="20191113000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113023000 -0400" stop="20191113030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113030000 -0400" stop="20191113050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113050000 -0400" stop="20191113060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113080000 -0400" stop="20191113100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113100000 -0400" stop="20191113120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113140000 -0400" stop="20191113143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113143000 -0400" stop="20191113163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113163000 -0400" stop="20191113170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113170000 -0400" stop="20191113190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113190000 -0400" stop="20191113200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113200000 -0400" stop="20191113220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113220000 -0400" stop="20191114000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114023000 -0400" stop="20191114030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114030000 -0400" stop="20191114050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114050000 -0400" stop="20191114060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114080000 -0400" stop="20191114100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114100000 -0400" stop="20191114120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114140000 -0400" stop="20191114143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114143000 -0400" stop="20191114163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114163000 -0400" stop="20191114170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114170000 -0400" stop="20191114190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114190000 -0400" stop="20191114200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114200000 -0400" stop="20191114220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114220000 -0400" stop="20191115000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115023000 -0400" stop="20191115030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115030000 -0400" stop="20191115050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115050000 -0400" stop="20191115060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115080000 -0400" stop="20191115100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115100000 -0400" stop="20191115120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115140000 -0400" stop="20191115143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115143000 -0400" stop="20191115163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115163000 -0400" stop="20191115170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115170000 -0400" stop="20191115190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115190000 -0400" stop="20191115200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115200000 -0400" stop="20191115220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115220000 -0400" stop="20191116000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116023000 -0400" stop="20191116030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116030000 -0400" stop="20191116050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116050000 -0400" stop="20191116060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116080000 -0400" stop="20191116100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116100000 -0400" stop="20191116120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116140000 -0400" stop="20191116143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116143000 -0400" stop="20191116163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116163000 -0400" stop="20191116170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116170000 -0400" stop="20191116190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116190000 -0400" stop="20191116200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116200000 -0400" stop="20191116220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116220000 -0400" stop="20191117000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117023000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117023000 -0400" stop="20191117030000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117030000 -0400" stop="20191117050000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117050000 -0400" stop="20191117060000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117080000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117080000 -0400" stop="20191117100000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117100000 -0400" stop="20191117120000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117140000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117140000 -0400" stop="20191117143000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117143000 -0400" stop="20191117163000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117163000 -0400" stop="20191117170000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117170000 -0400" stop="20191117190000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117190000 -0400" stop="20191117200000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117200000 -0400" stop="20191117220000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117220000 -0400" stop="20191118000000 -0400" channel="PREMIERE 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111023000 -0400" stop="20191111030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111030000 -0400" stop="20191111050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111050000 -0400" stop="20191111060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111080000 -0400" stop="20191111100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111100000 -0400" stop="20191111120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111140000 -0400" stop="20191111143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111143000 -0400" stop="20191111163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111163000 -0400" stop="20191111170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111170000 -0400" stop="20191111190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111190000 -0400" stop="20191111200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111200000 -0400" stop="20191111220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111220000 -0400" stop="20191112000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112023000 -0400" stop="20191112030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112030000 -0400" stop="20191112050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112050000 -0400" stop="20191112060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112080000 -0400" stop="20191112100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112100000 -0400" stop="20191112120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112140000 -0400" stop="20191112143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112143000 -0400" stop="20191112163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112163000 -0400" stop="20191112170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112170000 -0400" stop="20191112190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112190000 -0400" stop="20191112200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112200000 -0400" stop="20191112220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112220000 -0400" stop="20191113000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113023000 -0400" stop="20191113030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113030000 -0400" stop="20191113050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113050000 -0400" stop="20191113060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113080000 -0400" stop="20191113100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113100000 -0400" stop="20191113120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113140000 -0400" stop="20191113143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113143000 -0400" stop="20191113163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113163000 -0400" stop="20191113170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113170000 -0400" stop="20191113190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113190000 -0400" stop="20191113200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113200000 -0400" stop="20191113220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113220000 -0400" stop="20191114000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114023000 -0400" stop="20191114030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114030000 -0400" stop="20191114050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114050000 -0400" stop="20191114060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114080000 -0400" stop="20191114100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114100000 -0400" stop="20191114120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114140000 -0400" stop="20191114143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114143000 -0400" stop="20191114163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114163000 -0400" stop="20191114170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114170000 -0400" stop="20191114190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114190000 -0400" stop="20191114200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114200000 -0400" stop="20191114220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114220000 -0400" stop="20191115000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115023000 -0400" stop="20191115030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115030000 -0400" stop="20191115050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115050000 -0400" stop="20191115060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115080000 -0400" stop="20191115100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115100000 -0400" stop="20191115120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115140000 -0400" stop="20191115143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115143000 -0400" stop="20191115163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115163000 -0400" stop="20191115170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115170000 -0400" stop="20191115190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115190000 -0400" stop="20191115200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115200000 -0400" stop="20191115220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115220000 -0400" stop="20191116000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116023000 -0400" stop="20191116030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116030000 -0400" stop="20191116050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116050000 -0400" stop="20191116060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116080000 -0400" stop="20191116100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116100000 -0400" stop="20191116120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116140000 -0400" stop="20191116143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116143000 -0400" stop="20191116163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116163000 -0400" stop="20191116170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116170000 -0400" stop="20191116190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116190000 -0400" stop="20191116200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116200000 -0400" stop="20191116220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116220000 -0400" stop="20191117000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117023000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117023000 -0400" stop="20191117030000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117030000 -0400" stop="20191117050000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117050000 -0400" stop="20191117060000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117080000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117080000 -0400" stop="20191117100000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117100000 -0400" stop="20191117120000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117140000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117140000 -0400" stop="20191117143000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117143000 -0400" stop="20191117163000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117163000 -0400" stop="20191117170000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117170000 -0400" stop="20191117190000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117190000 -0400" stop="20191117200000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117200000 -0400" stop="20191117220000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117220000 -0400" stop="20191118000000 -0400" channel="PREMIERE 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111020000 -0400" stop="20191111030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111030000 -0400" stop="20191111050000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">MMA Raíz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111050000 -0400" stop="20191111060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111070000 -0400" stop="20191111103000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111103000 -0400" stop="20191111123000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Hora do MMA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111123000 -0400" stop="20191111160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111160000 -0400" stop="20191111180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Grappling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191111200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Striking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111200000 -0400" stop="20191111233000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Lutas Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111233000 -0400" stop="20191112030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112030000 -0400" stop="20191112033000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112033000 -0400" stop="20191112070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112070000 -0400" stop="20191112083000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Grappling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112083000 -0400" stop="20191112123000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112123000 -0400" stop="20191112140000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112140000 -0400" stop="20191112150000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112150000 -0400" stop="20191112160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112160000 -0400" stop="20191112170000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112170000 -0400" stop="20191112180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Grappling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191112190000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Pesagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112190000 -0400" stop="20191112200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112200000 -0400" stop="20191112210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112210000 -0400" stop="20191113010000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Lutas Ao Vivo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113010000 -0400" stop="20191113020000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113020000 -0400" stop="20191113030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113030000 -0400" stop="20191113050000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Grappling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113050000 -0400" stop="20191113060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113070000 -0400" stop="20191113090000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113090000 -0400" stop="20191113113000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Hora do MMA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113113000 -0400" stop="20191113120000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Aquecimento Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Fight Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191113200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Hora do MMA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113200000 -0400" stop="20191113210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113210000 -0400" stop="20191113220000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Series</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113220000 -0400" stop="20191114000000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Hora do MMA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114033000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114033000 -0400" stop="20191114040000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114040000 -0400" stop="20191114060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Hora do MMA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Series</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114070000 -0400" stop="20191114103000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114103000 -0400" stop="20191114110000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Variedades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114110000 -0400" stop="20191114130000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Striking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114130000 -0400" stop="20191114140000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114140000 -0400" stop="20191114160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114160000 -0400" stop="20191114180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Striking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191114190000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114190000 -0400" stop="20191114200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114200000 -0400" stop="20191114210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114210000 -0400" stop="20191114220000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">The Ultimate Fighter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114220000 -0400" stop="20191115000000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Arena Combate Striking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115010000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115010000 -0400" stop="20191115020000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115020000 -0400" stop="20191115030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115030000 -0400" stop="20191115040000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115040000 -0400" stop="20191115050000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115050000 -0400" stop="20191115060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115070000 -0400" stop="20191115080000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115080000 -0400" stop="20191115090000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115090000 -0400" stop="20191115100000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115100000 -0400" stop="20191115110000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115110000 -0400" stop="20191115120000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115130000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115130000 -0400" stop="20191115140000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115140000 -0400" stop="20191115150000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115150000 -0400" stop="20191115160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115160000 -0400" stop="20191115170000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115170000 -0400" stop="20191115180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191115190000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115190000 -0400" stop="20191115200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115200000 -0400" stop="20191115210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115210000 -0400" stop="20191115220000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115220000 -0400" stop="20191115230000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115230000 -0400" stop="20191116000000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116010000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116010000 -0400" stop="20191116020000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116020000 -0400" stop="20191116030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116030000 -0400" stop="20191116040000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116040000 -0400" stop="20191116050000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116050000 -0400" stop="20191116060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116070000 -0400" stop="20191116080000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116080000 -0400" stop="20191116090000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116090000 -0400" stop="20191116100000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116100000 -0400" stop="20191116110000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116110000 -0400" stop="20191116120000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116130000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116130000 -0400" stop="20191116140000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116140000 -0400" stop="20191116150000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116150000 -0400" stop="20191116160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116160000 -0400" stop="20191116170000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116170000 -0400" stop="20191116180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191116190000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116190000 -0400" stop="20191116200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116200000 -0400" stop="20191116210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116210000 -0400" stop="20191116220000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116220000 -0400" stop="20191116230000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116230000 -0400" stop="20191117000000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117010000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117010000 -0400" stop="20191117020000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117020000 -0400" stop="20191117030000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117030000 -0400" stop="20191117040000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117040000 -0400" stop="20191117050000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117050000 -0400" stop="20191117060000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117070000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117070000 -0400" stop="20191117080000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117080000 -0400" stop="20191117090000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117090000 -0400" stop="20191117100000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117100000 -0400" stop="20191117110000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117110000 -0400" stop="20191117120000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117130000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117130000 -0400" stop="20191117140000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117140000 -0400" stop="20191117150000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117150000 -0400" stop="20191117160000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117160000 -0400" stop="20191117170000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117170000 -0400" stop="20191117180000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191117190000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117190000 -0400" stop="20191117200000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117200000 -0400" stop="20191117210000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117210000 -0400" stop="20191117220000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117220000 -0400" stop="20191117230000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117230000 -0400" stop="20191118000000 -0400" channel="COMBATE HD ¹">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 2 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 3 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 4 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 5 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 6 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111000000 -0400" stop="20191111060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111060000 -0400" stop="20191111120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111120000 -0400" stop="20191111180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191111180000 -0400" stop="20191112000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112000000 -0400" stop="20191112060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112060000 -0400" stop="20191112120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112120000 -0400" stop="20191112180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191112180000 -0400" stop="20191113000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113000000 -0400" stop="20191113060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113060000 -0400" stop="20191113120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113120000 -0400" stop="20191113180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191113180000 -0400" stop="20191114000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114000000 -0400" stop="20191114060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114060000 -0400" stop="20191114120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114120000 -0400" stop="20191114180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191114180000 -0400" stop="20191115000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115000000 -0400" stop="20191115060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115060000 -0400" stop="20191115120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115120000 -0400" stop="20191115180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191115180000 -0400" stop="20191116000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116000000 -0400" stop="20191116060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116060000 -0400" stop="20191116120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116120000 -0400" stop="20191116180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191116180000 -0400" stop="20191117000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117000000 -0400" stop="20191117060000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117060000 -0400" stop="20191117120000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117120000 -0400" stop="20191117180000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191117180000 -0400" stop="20191118000000 -0400" channel="PREMIERE 7 SD ²">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
